@@ -1,2 +1,2 @@
 #!/bin/bash
- ls -lR > 0-current_working_directory
+ pwd > 0-current_working_directory

@@ -1,2 +1,2 @@
 #!/bin/bash
- echo  /tmp/correction/7121466103682642140898866621137458367939_2/205/310/0x00-shell_basics
+ type -p current working directory
